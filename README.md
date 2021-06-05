@@ -9,3 +9,4 @@
 
 ## Below are snaps of how it looks.
 
+![]https://github.com/swikriti04/Covid-19-Tracker/blob/gh-pages/Screenshot%20(190).png
