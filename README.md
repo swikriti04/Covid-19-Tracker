@@ -9,4 +9,9 @@
 
 ## Below are snaps of how it looks.
 
+### FrontView
 ![](Screenshot%20(190).png)
+
+![](Screenshot%20(191).png)
+
+![](Screenshot%20(192).png)
