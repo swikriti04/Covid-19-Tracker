@@ -5,7 +5,7 @@
 ### Recovered
 ### Death
 
-## It also shows you graph for whichevercountry you want.
+## It also shows you graph for whichever country you want.
 
 ## Below are snaps of how it looks.
 
